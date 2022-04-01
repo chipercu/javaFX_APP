@@ -1,4 +1,4 @@
-package ru.cav.demo;
+package ru.cav.demo.app;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package ru.cav.demo;
+package ru.cav.demo.app;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
